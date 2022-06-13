@@ -2,9 +2,9 @@
 Repositório criado para o Desafio de Projeto. 
 
 ## Links úteis
-_[Sintaxe Básica de Markdown]_  (https://www.markdownguide.org/basic-syntax/)  
+Sintaxe Básica de Markdown:  (https://www.markdownguide.org/basic-syntax/)  
 
-_[Typora]_ (https://typora.io/)
+Typora: (https://typora.io/)
 
 
 
