@@ -1,5 +1,4 @@
-## Desafio de Projeto Git / GitHub da Dio (Bootcamp Santander) :star:
-Repositório criado para o Desafio de Projeto. 
+## Este é um repositório para adicionar meus projetos e estudos de programação :star:
 
 ## Links úteis
 Sintaxe Básica de Markdown:  (https://www.markdownguide.org/basic-syntax/)  
