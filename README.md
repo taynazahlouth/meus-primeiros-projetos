@@ -1,9 +1,5 @@
-## Este é um repositório de pequenos projetos:star:
+## Este é um repositório de pequenos projetos como parte dos meus estudos:star:
 
-## Links úteis
-Sintaxe Básica de Markdown:  (https://www.markdownguide.org/basic-syntax/)  
-
-Typora: (https://typora.io/)
 
 
 
